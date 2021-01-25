@@ -1,1 +1,1 @@
-# Oddities
+![Oddities](/Oddities.png)
